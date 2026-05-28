@@ -9,4 +9,7 @@ Ainda estou aprendendo bastante, mas gosto de entender bem o que faço.
   <img src="https://img.shields.io/badge/Administração-6D4C41?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TI-Full%20Stack-0A66C2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Foco-Evolução-4CAF50?style=for-the-badge"/>
+</p> <br>
+<p align="center">
+  <img src="https://github.com/isabele-oliveiras/isabele-oliveiras/blob/main/gatinho.gif"/> 
 </p>
