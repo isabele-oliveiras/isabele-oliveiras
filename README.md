@@ -22,3 +22,9 @@ Ainda estou aprendendo bastante, mas gosto de entender bem o que faço.
 </p>
 
 ✨ Pequenos passos também são evolução.
+</p>
+ 🌎 Redes Sociais
+
+<div>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
